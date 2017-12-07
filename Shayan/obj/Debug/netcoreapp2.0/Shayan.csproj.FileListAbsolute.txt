@@ -1,0 +1,11 @@
+C:\Projects\Shayan\Shayan\bin\Debug\netcoreapp2.0\Shayan.deps.json
+C:\Projects\Shayan\Shayan\bin\Debug\netcoreapp2.0\Shayan.runtimeconfig.json
+C:\Projects\Shayan\Shayan\bin\Debug\netcoreapp2.0\Shayan.runtimeconfig.dev.json
+C:\Projects\Shayan\Shayan\bin\Debug\netcoreapp2.0\Shayan.dll
+C:\Projects\Shayan\Shayan\obj\Debug\netcoreapp2.0\Shayan.csprojResolveAssemblyReference.cache
+C:\Projects\Shayan\Shayan\obj\Debug\netcoreapp2.0\Shayan.csproj.CoreCompileInputs.cache
+C:\Projects\Shayan\Shayan\obj\Debug\netcoreapp2.0\Shayan.AssemblyInfoInputs.cache
+C:\Projects\Shayan\Shayan\obj\Debug\netcoreapp2.0\Shayan.AssemblyInfo.cs
+C:\Projects\Shayan\Shayan\bin\Debug\netcoreapp2.0\Shayan.pdb
+C:\Projects\Shayan\Shayan\obj\Debug\netcoreapp2.0\Shayan.dll
+C:\Projects\Shayan\Shayan\obj\Debug\netcoreapp2.0\Shayan.pdb

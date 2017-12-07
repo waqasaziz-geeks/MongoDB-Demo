@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shayan", "Shayan\Shayan.csproj", "{2DCFCBDF-E3E0-4BD6-9764-40CC0160B2BA}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BA476E53-EBDA-4158-B71B-6BD054875381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCFCBDF-E3E0-4BD6-9764-40CC0160B2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCFCBDF-E3E0-4BD6-9764-40CC0160B2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCFCBDF-E3E0-4BD6-9764-40CC0160B2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCFCBDF-E3E0-4BD6-9764-40CC0160B2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA476E53-EBDA-4158-B71B-6BD054875381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA476E53-EBDA-4158-B71B-6BD054875381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA476E53-EBDA-4158-B71B-6BD054875381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA476E53-EBDA-4158-B71B-6BD054875381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F5E464-0345-4C32-BAEE-9816F2DF5452}
+	EndGlobalSection
+EndGlobal
